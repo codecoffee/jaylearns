@@ -1,3 +1,7 @@
 # jaylearns
 Referenced List for Programming
-Will add references to websites and coding examples
+
+*****Git*****
+
+Create gitpages
+https://pages.github.com
